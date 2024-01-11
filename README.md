@@ -1,6 +1,6 @@
 # Realtime 3D Rendering
 ## Description
-In this project for a Computer Graphics course,   OpenGL is used to render 3D images to support camera movement.
+A Qt application to render 3D images with Phong illumination model. OpenGL shader is used here to improve rendering performance to support camera movement.
 ## Getting Started
 Qt and QtCreator are required to run the program.
 ## Usage
