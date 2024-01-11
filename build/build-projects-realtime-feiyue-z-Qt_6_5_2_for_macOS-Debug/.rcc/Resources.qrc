@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="resources/shaders/phong.frag">/Users/feiyue/school_projects/1230/projects-realtime-feiyue-z/resources/shaders/phong.frag</file>
+    <file alias="resources/shaders/phong.vert">/Users/feiyue/school_projects/1230/projects-realtime-feiyue-z/resources/shaders/phong.vert</file>
+    <file alias="resources/shaders/texture.frag">/Users/feiyue/school_projects/1230/projects-realtime-feiyue-z/resources/shaders/texture.frag</file>
+    <file alias="resources/shaders/texture.vert">/Users/feiyue/school_projects/1230/projects-realtime-feiyue-z/resources/shaders/texture.vert</file>
+  </qresource>
+</RCC>
+
